@@ -11,6 +11,7 @@
     - ntp
     - wget
     - curl
+    - whois
     - silversearcher-ag
     - zsh
     - ack-grep
