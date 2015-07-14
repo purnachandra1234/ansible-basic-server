@@ -11,12 +11,17 @@
     - ntp
     - wget
     - curl
-    - vim
+    - silversearcher-ag
+    - zsh
     - ack-grep
     - git
     - unzip
     - htop
-    - tmux
+    - glances
+    - cmake
+    - ctags
+    - tree
+    - build-essential
   notify:
     - Start NTP
 
