@@ -23,6 +23,7 @@
     - ctags
     - tree
     - build-essential
+    - gdebi
   notify:
     - Start NTP
 
