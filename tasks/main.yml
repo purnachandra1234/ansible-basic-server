@@ -24,6 +24,7 @@
     - tree
     - build-essential
     - gdebi
+    - alien
   notify:
     - Start NTP
 
